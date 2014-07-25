@@ -1,0 +1,15 @@
+** file name - kl_algo_generalised.py
+
+** input file required - branches.txt
+
+** branches.txt - consists of all edges between vertices in graph
+
+** command to run file - python klalgorihtm.py
+
+** vertices no can be any thing but less than or equal to 10
+
+** you can provide any graph having no of vertices less than or equal to 10
+
+** description - This code start with some initial partitioning and divides graph 
+                  into two graphs by iterating over graph using Kernighan-Lin algo.
+                 Two subgraphs will have minimum cutsets between them.

@@ -1,0 +1,15 @@
+** file name - klalgofixed.py
+
+** input file required - branches.txt
+
+** branches.txt - consists of all edges between vertices in graph
+
+** command to run file - python klalgorihtm.py
+
+** vertices no is fixed which is 8 for this perticular program
+
+** you can provide any graph having no of vertices 8
+
+** description - This code start with some initial partitioning and divides graph 
+                  into two graphs by iterating over graph using Kernighan-Lin algo.
+                 Two subgraphs will have minimum cutsets between them.

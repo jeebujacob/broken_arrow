@@ -1,0 +1,14 @@
+.model comp.eq
+.inputs A B
+.outputs X Y Z
+.names A B C X
+11 1
+
+.names X Y
+0 1
+.names X Z
+0 1
+
+
+.end
+
